@@ -1,0 +1,2 @@
+Showing screenshots for Emulator Version as well as actual application installed on the android phone.
+Also a basic calculation (-4+9=5)
